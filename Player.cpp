@@ -117,3 +117,4 @@ int SmartPlayer::chooseMove(const Scaffold& s, int N, int color)
 {
     return m_impl->chooseMove(s, N, color);
 }
+x
